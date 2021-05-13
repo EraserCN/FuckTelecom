@@ -31,6 +31,7 @@ systemctl start v2ray
 ```
 
 # 最后导入V2Ray连接
+vmess://eyJhZGQiOiLkv67mlLnkuLrkvaDnmoTmnI3liqHlmahpcCIsImFpZCI6IjgiLCJob3N0IjoidmRvMy5udHkuMTg5LmNuIiwiaWQiOiIzZmQzNTM4MS1kNzM0LTQ1NDItOTUzMS1mNTFkOTQzZTVjYzAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2l0aHViZXJhc2VyY24iLCJwb3J0IjoiNDQzIiwicHMiOiJleGFtcGxlIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 ## 进阶开发
 
